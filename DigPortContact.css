@@ -1,0 +1,423 @@
+@media screen and (min-width:1920px) and (max-width: 1920px){
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    
+    html {
+        height: 100%;
+    }
+     
+    body {
+        
+        min-height: 100%;
+        overflow: hidden;
+        background-color: #738362;
+    }
+    
+    header {
+        background-color: #565d50;
+        padding: 0.5%;
+        font-family:  georgia;
+        color: white;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 350%;
+        margin-left: 0%;
+        margin-top: -0.5%;
+        
+    }
+    
+    .headertext {
+        color: white;
+        margin-left: 2%;
+        font-weight: bold;
+        margin-top: 1%;
+        font-size: larger;
+    }
+    
+    .htext {
+        color: #6d8092;
+        float: left;
+        margin-top: 1%;
+        margin-left: 2%;
+        font-size: large;
+        font-weight: bolder;
+    }
+    
+    nav ul {
+        list-style-type: none;
+        text-align: center;
+        margin-left: 40%;
+        font-family: sans-serif;
+        font-size: large;
+        margin-top: 1%;
+        color: #6d8092;
+    }
+    
+     nav ul li {
+         display: inline-block;
+         margin: 0 1%;
+         padding-bottom: 1%;
+         color: #6d8092;
+            }
+    
+        nav ul li a {
+            color: #6d8092;
+         text-decoration: none;
+            }
+
+footer {
+    position: fixed;
+    background-color: #3f4737;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    padding: 1% 0;
+    bottom: 0;
+    width: 100%;
+    height: 10vh;
+    }
+
+    .mail {
+        height: 100vh;
+        width: 100%;
+        float: right;
+    }
+
+        .mail img {
+            height: auto;
+            width: 3.7%;
+            margin-top: -0.2%;
+            float: right;
+            margin-right: 21.25%;
+        }
+
+    .ig {
+        height: 100vh;
+        width: 100%;
+        float: right;
+    }
+
+        .ig img {
+            height: auto;
+            width: 3%;
+            margin-top: -49.55%;
+            float: right;
+            margin-right: 5%;
+        }
+
+    .x {
+        height: 100vh;
+        width: 100%;
+        float: right;
+    }
+
+        .x img {
+            height: auto;
+            width: 3%;
+            margin-top: -99.2%;
+            margin-right: 13%;
+            float: right;
+        }
+
+    .yt {
+        height: 100vh;
+        width: 100%;
+        float: right;
+    }
+
+        .yt img {
+            height: auto;
+            width: 3%;
+            margin-top: -148.9%;
+            margin-right: 9%;
+            float: right;
+        }
+
+        .footertext {
+            float: right;
+            color: white;
+            font-size: 80%;
+            margin-top: 38.8%;
+            position: fixed;
+            margin-left: 79%;
+        }
+    }
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (min-width:1440px) and (max-width: 1440px){
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    
+    html {
+        height: 100%;
+        z-index: 1.5;
+    }
+     
+    body {
+        
+        min-height: 100%;
+        overflow: hidden;
+        background-color: #738362;
+    }
+    
+    header {
+        background-color: #565d50;
+        padding: 0.5%;
+        font-family:  georgia;
+        color: white;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 350%;
+        margin-left: 0%;
+        margin-top: -0.5%;
+        
+    }
+    
+    .headertext {
+        color: white;
+        margin-left: 2%;
+        font-weight: bold;
+        margin-top: 1%;
+        font-size: larger;
+    }
+    
+    .htext {
+        color: #6d8092;
+        float: left;
+        margin-top: 1%;
+        margin-left: 2%;
+        font-size: large;
+        font-weight: bolder;
+    }
+    
+    nav ul {
+        list-style-type: none;
+        text-align: center;
+        margin-left: 40%;
+        font-family: sans-serif;
+        font-size: large;
+        margin-top: 1%;
+        color: #6d8092;
+    }
+    
+     nav ul li {
+         display: inline-block;
+         margin: 0 1%;
+         padding-bottom: 1%;
+         color: #6d8092;
+            }
+    
+        nav ul li a {
+            color: #6d8092;
+         text-decoration: none;
+            }
+
+            .insta {
+                height: 100vh;
+                width: 100%;
+                float: left;
+                background-size: 0%;
+                
+               
+                background-size: 1%;
+                
+            }
+
+                .insta img {
+                    height: 10%;
+                    width: auto;
+                    float: left;
+                    margin-top: 7%;
+                    margin-left: 7%;
+                    background-size: 0px;
+                    position: relative;
+                }
+
+            .x {
+                height: 100vh;
+                width: 100%;
+                float: left;
+            }
+
+            .x img {
+                height: 100%;
+                width: auto;
+                float: left;
+                margin-top: -170%
+            }
+
+            .facebook {
+                height: 100vh;
+                width: 100%;
+                float: right;
+            }
+
+                .facebook img {
+                    height: 10%;
+                    width: auto;
+                    float: right;
+                    margin-top: -100.4%;
+                    margin-right: 7%;
+                    
+                }
+
+            .youtube {
+                float: left;
+                height: 100vh;
+                width: 100%;
+            }
+
+                .youtube img {
+                    width: auto;
+                    height: 10%;
+                    float: left;
+                    margin-top: -187.4%;
+                    margin-left: 7%;
+                }
+
+            .tiktok {
+                float: right;
+                height: 100vh;
+                width: 100%;
+            }
+
+            .tiktok img {
+                float: right;
+                height: 10%;
+                width: auto;
+                margin-top: -134.9%;
+                margin-right: 7%;
+            }
+
+                .text {
+                    float: right;
+                    margin-top: -250%;
+                    margin-right: 19%;
+                    font-size: larger;
+                    color: white;
+                }
+
+
+
+
+
+
+            footer {
+                position: fixed;
+                background-color: #3f4737;
+                color: white;
+                font-family: Georgia, 'Times New Roman', Times, serif;
+                text-align: center;
+                padding: 1% 0;
+                bottom: 0;
+                width: 100%;
+                height: 10vh;
+                }
+    
+                .mail {
+                    height: 100vh;
+                    width: 100%;
+                    float: right;
+                }
+    
+                    .mail img {
+                        height: auto;
+                        width: 3.7%;
+                        margin-top: -0.2%;
+                        float: right;
+                        margin-right: 21.25%;
+                    }
+    
+                .ig {
+                    height: 100vh;
+                    width: 100%;
+                    float: right;
+                }
+    
+                    .ig img {
+                        height: auto;
+                        width: 3%;
+                        margin-top: -53.55%;
+                        float: right;
+                        margin-right: 5%;
+                    }
+    
+                .x {
+                    height: 100vh;
+                    width: 100%;
+                    float: right;
+                }
+    
+                    .x img {
+                        height: auto;
+                        width: 3%;
+                        margin-top: -107.25%;
+                        margin-right: 13%;
+                        float: right;
+                    }
+    
+                .yt {
+                    height: 100vh;
+                    width: 100%;
+                    float: right;
+                }
+    
+                    .yt img {
+                        height: auto;
+                        width: 3%;
+                        margin-top: -160.9%;
+                        margin-right: 9%;
+                        float: right;
+                    }
+    
+                    .footertext {
+                        float: right;
+                        color: white;
+                        font-size: 80%;
+                        margin-top: 40.5%;
+                        position: fixed;
+                        margin-left: 79%;
+                    }
+                }
